@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://sabarirajtg.github.io/Portfolio/](https://sabarirajtg.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/Sabarirajtg?tab=repositories](https://github.com/Sabarirajtg?tab=repositories)
 
 - 💻 Look at my Portfolio [https://sabarirajtg.github.io/Portfolio/](https://sabarirajtg.github.io/Portfolio/)
 
