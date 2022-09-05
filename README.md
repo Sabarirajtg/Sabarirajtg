@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>, I'm Sabariraj TG</h1>
-<h3 align="center">I'm a Student, Developer, Photographer, Learner!</h3>
+<h3 align="center">I'm a Developer, Photographer, Learner!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarirajtg&label=Profile%20views&color=0e75b6&style=flat" alt="sabarirajtg" /> </p>
 
