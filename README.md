@@ -11,7 +11,7 @@
 
 - 💻 Look at my Portfolio [https://sabarirajtg.github.io/Portfolio/](https://sabarirajtg.github.io/Portfolio/)
 
-- 💬 Ask me about **React JS, Java, C, JavaScript, CSS**
+- 💬 Ask me about **React JS, JavaScript, Node.js**
 
 - 📫 How to reach me **tg.sabariraj@gmail.com**
 
