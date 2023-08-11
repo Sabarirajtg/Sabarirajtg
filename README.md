@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React JS Projects**
 
-- 🌱 I’m currently learning MERN Stack**
+- 🌱 I’m currently learning advanced JS concets
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sabarirajtg?tab=repositories](https://github.com/Sabarirajtg?tab=repositories)
 
